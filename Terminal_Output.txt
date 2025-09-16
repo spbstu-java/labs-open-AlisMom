@@ -1,0 +1,14 @@
+prot2
+prot2
+prot2
+prot1:0,
+prot1:0,
+priv1:0.0
+priv1:0.0
+priv1:0.0
+priv1:0.0
+priv2:null,null
+
+BUILD SUCCESSFUL in 380ms
+2 actionable tasks: 2 executed
+Configuration cache entry stored.
