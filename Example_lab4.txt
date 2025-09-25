@@ -1,0 +1,8 @@
+List<Integer> nums = Arrays.asList(1, 2, 2, 3, 4);
+List<String> strs = Arrays.asList("apple", "banana", "cherry");
+Среднее: 2.4
+В верхний регистр: [_new_APPLE, _new_BANANA, _new_CHERRY]
+Уникальные квадраты: [1, 9, 16]
+Последний элемент: cherry
+Сумма четных: 12
+Преобразование в таблицу: {a=pple, b=anana, c=herry}
