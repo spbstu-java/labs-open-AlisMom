@@ -3,14 +3,11 @@ package gui;
 import hero.*;
 import lab2.Invoker;
 import streamapi.StreamTasks;
-// импортируем КОНКРЕТНЫЕ классы из translator
 import translator.Dictionary;
 import translator.DictionaryLoader;
 import translator.FileReadException;
 import translator.InvalidFileFormatException;
 import translator.Translator;
-
-// из java.util бери только нужные классы, а не *
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
